@@ -39,7 +39,7 @@ public class GetUserInput {
     public static void main(String[] args) {
         GetUserInput user = new GetUserInput();
         user.input = new Scanner(System.in);
-        user.getString();
-        //System.out.println(user.printString());
+        String value = user.getString();
+        user.printString(value);
     }
 }

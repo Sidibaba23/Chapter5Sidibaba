@@ -14,24 +14,33 @@ public class FibonacciSeq {
     private Scanner input;
 
     /**
-     * Method name: printFib
+     * Method name: Fib
      * Holds the sequence
      */
-    public int printFib() {
+    public int Fib(){
         int Fib = (1 + 1 + 2 + 3 + 5 + 8 + 13 + 21);
         return Fib;
+    }
+    /**
+     * Method name: printFib
+     * prints the sequence
+     */
+    public void printFib() {
+        System.out.println("The Fibonacci Sequence is: " + Fib());
     }
 
     public static void main(String[] args) {
         FibonacciSeq obj = new FibonacciSeq();
         obj.input = new Scanner(System.in);
-        System.out.println("The Fibonacci Sequence is: " + obj.printFib());
+        obj.printFib();
         while (obj.input.equals("yes")) {
-            obj.printFib();
             System.out.println("Do you want to repeat it?");
             obj.input.nextLine();
             if (obj.input.equals("no")) {
                 break;
+            }
+            else{
+                obj.printFib();
             }
         }
     }

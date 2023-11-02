@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="985fa75e-becc-40fb-a988-185d849f705a" name="Changes" comment="">
+    <list default="true" id="985fa75e-becc-40fb-a988-185d849f705a" name="Changes" comment="Chapter5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +14,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2XUpF8Fi70fe5JSM517SsSuFFnT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -26,7 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/sidib/IdeaProjects/Chapter5Sidibaba/src",
+    "last_opened_file_path": "C:/Users/sidib/IdeaProjects/Chapter6Sidibaba",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,11 +50,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1698693409583</updated>
-      <workItem from="1698693410785" duration="598000" />
+      <workItem from="1698693410785" duration="1275000" />
+      <workItem from="1698808023787" duration="737000" />
+      <workItem from="1698850022922" duration="8728000" />
     </task>
+    <task id="LOCAL-00001" summary="Chapter5">
+      <created>1698723631824</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698723631824</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Chapter5">
+      <created>1698876768807</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698876768807</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Chapter5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter5" />
   </component>
 </project>
